@@ -7,5 +7,5 @@ Try these users:<br>
 - User3: <code>rm</code> PIN: <code>9999</code><br><br>
 After logged in will be possible to check the following features:<br>
 - 1. Account statement in ascending values or date order;<br>
-- 2. Display total withdrawal/deposit amount;
-- 
+- 2. Display total withdrawal/deposit amount and the total current balance;<br>
+- 3. Transfer 
