@@ -1,5 +1,5 @@
 # Bankist-App
-
+<br>
 Here's the small APP that I studied from my latest lectures.
 Try these users:
 -<code>js pin1111</code>
