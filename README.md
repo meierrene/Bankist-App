@@ -6,4 +6,6 @@ Try these users:<br>
 - User2: <code>jd</code> PIN: <code>2222</code><br>
 - User3: <code>rm</code> PIN: <code>9999</code><br>
 - <br>
-- After logged in will be possible to check the entire account statement either by sorting then in ascedent order, current balance, 
+- After logged in will be possible to check the following features:<br>
+- 1. Account statement in ascending values or date order;<br>
+- 2. Display total withdrawal/deposit amount;
